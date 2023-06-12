@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/peipei/Documents/GithubTest/DerivedData/GithubTest/Index.noindex/Build/Intermediates.noindex/GithubTest.build/Debug-iphonesimulator/GithubTest.build/Objects-normal/x86_64/GithubTest-master.d",
+    "diagnostics" : "/Users/peipei/Documents/GithubTest/DerivedData/GithubTest/Index.noindex/Build/Intermediates.noindex/GithubTest.build/Debug-iphonesimulator/GithubTest.build/Objects-normal/x86_64/GithubTest-master.dia",
+    "emit-module-dependencies" : "/Users/peipei/Documents/GithubTest/DerivedData/GithubTest/Index.noindex/Build/Intermediates.noindex/GithubTest.build/Debug-iphonesimulator/GithubTest.build/Objects-normal/x86_64/GithubTest-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/peipei/Documents/GithubTest/DerivedData/GithubTest/Index.noindex/Build/Intermediates.noindex/GithubTest.build/Debug-iphonesimulator/GithubTest.build/Objects-normal/x86_64/GithubTest-master-emit-module.dia",
+    "swift-dependencies" : "/Users/peipei/Documents/GithubTest/DerivedData/GithubTest/Index.noindex/Build/Intermediates.noindex/GithubTest.build/Debug-iphonesimulator/GithubTest.build/Objects-normal/x86_64/GithubTest-master.swiftdeps"
+  },
+  "/Users/peipei/Documents/GithubTest/DerivedData/GithubTest/Index.noindex/Build/Intermediates.noindex/GithubTest.build/Debug-iphonesimulator/GithubTest.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/peipei/Documents/GithubTest/GithubTest/AppDelegate.swift" : {
+
+  },
+  "/Users/peipei/Documents/GithubTest/GithubTest/SceneDelegate.swift" : {
+
+  },
+  "/Users/peipei/Documents/GithubTest/GithubTest/ViewController.swift" : {
+
+  }
+}

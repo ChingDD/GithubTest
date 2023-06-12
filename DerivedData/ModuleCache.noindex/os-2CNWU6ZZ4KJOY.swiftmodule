@@ -1,0 +1,40 @@
+---
+path:            '/Users/peipei/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/17.0/os.swiftmodule/x86_64-apple-ios-simulator.swiftmodule'
+dependencies:
+  - mtime:           1685650803000000000
+    path:            '/Users/peipei/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/17.0/os.swiftmodule/x86_64-apple-ios-simulator.swiftmodule'
+    size:            528972
+  - mtime:           1684904664000000000
+    path:            'usr/lib/swift/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface'
+    size:            2073082
+    sdk_relative:    true
+  - mtime:           1684904681000000000
+    path:            'usr/lib/swift/_Concurrency.swiftmodule/x86_64-apple-ios-simulator.swiftinterface'
+    size:            148856
+    sdk_relative:    true
+  - mtime:           1684908420000000000
+    path:            'usr/lib/swift/_StringProcessing.swiftmodule/x86_64-apple-ios-simulator.swiftinterface'
+    size:            21911
+    sdk_relative:    true
+  - mtime:           1684535494000000000
+    path:            'usr/include/Darwin.apinotes'
+    size:            1133
+    sdk_relative:    true
+  - mtime:           1684540342000000000
+    path:            'usr/include/objc/ObjectiveC.apinotes'
+    size:            11147
+    sdk_relative:    true
+  - mtime:           1684908333000000000
+    path:            'usr/lib/swift/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftinterface'
+    size:            31007
+    sdk_relative:    true
+  - mtime:           1684544379000000000
+    path:            'usr/lib/swift/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftinterface'
+    size:            4669
+    sdk_relative:    true
+  - mtime:           1684545223000000000
+    path:            'usr/lib/swift/os.swiftmodule/x86_64-apple-ios-simulator.swiftinterface'
+    size:            118485
+    sdk_relative:    true
+version:         1
+...
